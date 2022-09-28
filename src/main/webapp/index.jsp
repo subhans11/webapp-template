@@ -17,7 +17,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="#">Home of site</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Link</a>
@@ -72,7 +72,7 @@
   </button>
 </div>
     
-    <h1>Hello, world! Welcome to my Website!</h1>
+    <h1>Hello, world! Welcome to my Website! Hope You Like it!!</h1>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
   </body>
